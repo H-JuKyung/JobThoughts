@@ -1,4 +1,4 @@
-# 유레카 프론트엔드 비대면 3조
+# <img src="https://raw.githubusercontent.com/H-JuKyung/JobThoughts/refs/heads/main/client/public/jobThoughts.svg" width="48"/> 유레카 프론트엔드 비대면 3조
 ![image](https://github.com/user-attachments/assets/cf5feed1-4add-4bf7-ba2e-3be73272d434)
 
 ## 잡생각(JobThoughts)
@@ -107,3 +107,6 @@ CAREER_API_KEY={커리어넷에서 받은 API키}
 
 > 💡 해당 프로젝트는 모노레포 구조로 되어 있으며, pnpm 워크스페이스를 사용해 서버와 클라이언트를 함께 관리합니다. 
 > pnpm dev 실행 시 서버와 클라이언트가 동시에 구동됩니다.
+
+### 🙌 이 프로젝트는 2025 URECA 2기 프론트엔드 미니 프로젝트로 진행되었습니다.
+- 원본 레포: [깃허브 주소](https://github.com/hyonun321/JobThoughts)
